@@ -4,6 +4,8 @@ Software engineer and toolmaker. I build developer tools, AI interaction librari
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-bradley-3a19b01/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/scott2b)
+[![Code & Circuits](https://img.shields.io/badge/Code%20%26%20Circuits-Engineer's%20Notebook-2563EB?logo=bookstack&logoColor=white)](https://codeandcircuits.com/)
+[![Knight Lab](https://img.shields.io/badge/Knight%20Lab-Senior%20Engineer-4E2A84?logo=northwestern-university&logoColor=white)](https://knightlab.northwestern.edu/people/scott-bradley/)
 
 ---
 
