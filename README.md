@@ -12,42 +12,96 @@
 
 ### Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" title="HTML" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" title="CSS" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" title="Svelte" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow" width="48" height="48" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" title="Terraform" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" title="Google Cloud" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" title="Cloudflare" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" title="Ubuntu" width="48" height="48" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim" title="Vim" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri" title="Tauri" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" title="scikit-learn" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino & Electronics" title="Arduino" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" title="Raspberry Pi" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" title="Obsidian" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=regex&theme=dark" alt="Regex" title="Regex" width="48" height="48" />
-</p>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white&style=for-the-badge)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white&style=for-the-badge)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white&style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
+
+**Data Science & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
+
+**Infrastructure & Databases**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge)
+
+**Tools & Environment**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![Fish](https://img.shields.io/badge/Fish-34C534?logo=fishshell&logoColor=white&style=for-the-badge)
+![Ghostty](https://img.shields.io/badge/Ghostty-3551F3?logo=ghostty&logoColor=white&style=for-the-badge)
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=white&style=for-the-badge)
+![Starship](https://img.shields.io/badge/Starship-DD0B78?logo=starship&logoColor=white&style=for-the-badge)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white&style=for-the-badge)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white&style=for-the-badge)
+
+**Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
+
+**AI & Research**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?logo=openrouter&logoColor=white&style=for-the-badge)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?logo=notebooklm&logoColor=white&style=for-the-badge)
+
+**Documentation & Publishing**
+
+![Quarto](https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=white&style=for-the-badge)
+![Material for MkDocs](https://img.shields.io/badge/MkDocs%20Material-526CFE?logo=materialformkdocs&logoColor=white&style=for-the-badge)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white&style=for-the-badge)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white&style=for-the-badge)
+
+**Platforms & Services**
+
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=for-the-badge)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?logo=quickbooks&logoColor=white&style=for-the-badge)
 
 ---
 
