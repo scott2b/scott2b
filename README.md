@@ -1,6 +1,6 @@
 ## Scott Bradley
 
-<a href="https://github.com/scott2b"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Software+engineer+and+toolmaker;Developer+tools+%7C+AI+interaction+%7C+Infrastructure" alt="Typing SVG" /></a>
+<a href="https://github.com/scott2b"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Software+engineer+and+toolmaker;Developer+tools+%7C+AI+interaction+%7C+infra" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-bradley-3a19b01/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/scott2b)
@@ -14,17 +14,17 @@
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,rust,js,svelte,django,flask,tauri,pytorch,tensorflow,sklearn&theme=dark" alt="Languages & Frameworks" />
+<img src="https://skillicons.dev/icons?i=python,rust,js,html,css,svelte,django,flask,tauri,pytorch,tensorflow,sklearn&theme=dark&perline=12" alt="Languages & Frameworks" />
 </a>
 </p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,terraform,aws,gcp,cloudflare,postgres,sqlite,redis,linux,ubuntu&theme=dark" alt="Infrastructure" />
+<img src="https://skillicons.dev/icons?i=docker,terraform,aws,gcp,cloudflare,postgres,sqlite,redis,linux,ubuntu&theme=dark&perline=12" alt="Infrastructure" />
 </a>
 </p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,vim,bash,arduino,raspberrypi,obsidian,md,regex&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vim,bash,arduino,raspberrypi,obsidian,md,regex&theme=dark&perline=12" alt="Tools" />
 </a>
 </p>
 
