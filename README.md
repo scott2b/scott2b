@@ -1,6 +1,6 @@
 ## Scott Bradley
 
-<a href="https://github.com/scott2b"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Software+engineer+and+toolmaker;Developer+tools+%7C+AI+interaction+%7C+infra" alt="Typing SVG" /></a>
+<a href="https://github.com/scott2b"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Software+engineer+and+toolmaker;Developer+tools+%7C+AI+interaction" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-bradley-3a19b01/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/scott2b)
