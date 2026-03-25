@@ -13,19 +13,40 @@
 ### Tech Stack
 
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,rust,js,html,css,svelte,django,flask,pytorch,tensorflow&theme=dark" alt="Languages & Frameworks" />
-</a>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" title="HTML" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" title="CSS" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" title="Svelte" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow" width="48" height="48" />
 </p>
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,terraform,aws,gcp,cloudflare,postgres,sqlite,redis,linux,ubuntu&theme=dark" alt="Infrastructure" />
-</a>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" title="Terraform" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" title="Google Cloud" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" title="Cloudflare" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" title="Ubuntu" width="48" height="48" />
 </p>
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,vim,bash,tauri,sklearn,arduino,raspberrypi,obsidian,regex&theme=dark" alt="Tools" />
-</a>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim" title="Vim" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri" title="Tauri" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" title="scikit-learn" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino & Electronics" title="Arduino" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" title="Raspberry Pi" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" title="Obsidian" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=regex&theme=dark" alt="Regex" title="Regex" width="48" height="48" />
 </p>
 
 ---
