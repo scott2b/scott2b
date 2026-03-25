@@ -14,17 +14,17 @@
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,rust,js,html,css,svelte,django,flask,tauri,pytorch,tensorflow,sklearn&theme=dark&perline=12" alt="Languages & Frameworks" />
+<img src="https://skillicons.dev/icons?i=python,rust,js,html,css,svelte,django,flask,pytorch,tensorflow&theme=dark" alt="Languages & Frameworks" />
 </a>
 </p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,terraform,aws,gcp,cloudflare,postgres,sqlite,redis,linux,ubuntu&theme=dark&perline=12" alt="Infrastructure" />
+<img src="https://skillicons.dev/icons?i=docker,terraform,aws,gcp,cloudflare,postgres,sqlite,redis,linux,ubuntu&theme=dark" alt="Infrastructure" />
 </a>
 </p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,vim,bash,arduino,raspberrypi,obsidian,md,regex&theme=dark&perline=12" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vim,bash,tauri,sklearn,arduino,raspberrypi,obsidian,regex&theme=dark" alt="Tools" />
 </a>
 </p>
 
